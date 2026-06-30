@@ -1,3 +1,8 @@
+---
+name: OCR-Extraction-Skill
+description: This skill defines how an AI agent must perform optical character recognition (OCR), text extraction, and document transcription from scanned PDFs, images, screenshots, photographs, and mixed text/image documents.
+---
+
 # OCR Extraction Skill
 
 ## Purpose
