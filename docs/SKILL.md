@@ -1,3 +1,7 @@
+---
+name: PHP-JavaScript-Documentation-Skill
+description: This skill defines how an AI coding agent must document PHP and JavaScript code in this project. It is intended to produce code that is easy to understand, easy to maintain, compatible with PhpStorm, and suitable for generated API documentation where applicable.The agent must document intent, contracts, edge cases, side effects, and integration points. It must not generate noisy, repetitive, or misleading comments that merely restate the code.
+---
 # PHP / JavaScript Documentation Skill
 
 ## Purpose
